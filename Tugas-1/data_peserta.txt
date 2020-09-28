@@ -1,0 +1,6 @@
+Data Peserta Sanbercode Bootcamp ReactJS
+1. Nama: Wito Irawan
+2. Email: witoirawan7@gmail.com
+3. Sistem Operasi yang digunakan: Windows 10
+4. Akun Gitlab/GitHub: WitoGuard 
+5. Akun Telegram: witoirawan
